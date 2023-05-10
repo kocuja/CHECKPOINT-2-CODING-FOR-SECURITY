@@ -23,8 +23,8 @@ em sua posição correta.
 uma contendo elementos menores que o pivot e outra contendo elementos maiores que o mesmo. Em seguida, ele repete o processo 
 nas duas sub-listas até que toda a lista esteja ordenada corretamente.
 
-➢ Merge Sort: Este algoritimo divide a lista em duas "sub-listas", ordenando-as e, em seguida, combinando e organizando ambas 
-em uma lista ordenada. Lembrando que, este algoritimo é eficiente para grandes conjuntos de dados, 
+➢ Merge Sort: Este algoritimo divide a lista em duas "sub-listas", ordenando-as e, em seguida, combinando e organizando 
+ambas em uma lista ordenada. Lembrando que, este algoritimo é eficiente para grandes conjuntos de dados, 
 por isso seu uso foi essencial.
 
 ```
