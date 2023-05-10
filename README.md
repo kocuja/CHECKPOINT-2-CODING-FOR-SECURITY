@@ -15,10 +15,15 @@
 ```
 PRINCIPAIS MÉTODOS DE ORDENAÇÃO UTILIZADOS:
 
-Insertion Sort: Este aitmo compara cada elemento com os elementos anteriores da lista e, em seguida, insere o elemento em sua posição correta na lista. Ele itera sobre a lista várias vezes até que todos os elementos estejam em sua posição correta.
+➢ Insertion Sort: Este algoritimo compara cada elemento com os elementos anteriores da lista e, em seguida, insere 
+o elemento em sua posição correta na lista. Ele age sobre a lista várias vezes até que todos os elementos estejam 
+em sua posição correta.
 
-Quick Sort:
+➢ Quick Sort: Este algoritmo seleciona um elemento pivot da lista e particiona a lista em duas "sub-listas", 
+uma contendo elementos menores que o pivot e outra contendo elementos maiores que o mesmo. Em seguida, ele repete o processo 
+nas duas sub-listas até que toda a lista esteja ordenada corretamente.
 
-Merge Sort:
+➢ Merge Sort: Este algoritimo divide a lista em duas "sub-listas", ordenando-as e, em seguida, combinando e organizando ambas 
+em uma lista ordenada. Lembrando que, este algoritimo é eficiente para grandes conjuntos de dados, por isso seu uso foi essencial.
 
 ```
