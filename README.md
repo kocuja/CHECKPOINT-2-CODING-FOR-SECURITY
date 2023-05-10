@@ -29,6 +29,6 @@ nas duas sub-listas até que toda a lista esteja ordenada corretamente.
 
 ➢ Merge Sort: Este algoritimo divide a lista em duas "sub-listas", ordenando-as e, em seguida, combinando e organizando 
 ambas em uma lista ordenada. Lembrando que, este algoritimo é eficiente para grandes conjuntos de dados, 
-por isso seu uso foi essencial.
+por isso seu uso foi essencial. 
 
 ```
